@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I'm a passionate software developer with a strong foundation in web development and backend engineering. During my college years, I honed my skills in HTML, CSS, JavaScript, Node.js, and MySQL. 🌟 My journey continued with an enriching internship at STMicroelectronics, where I delved into the world of Java Spring Boot and MySQL. I had the privilege of working on their PeopleSoft E-leave application and spearheaded the development of DataFin, an Investment Declaration and Proof Submission System serving a user base of approximately 1000 individuals. In this role, I was responsible for crafting robust backend logic using Spring Boot and seamlessly integrating it with frontend components. 🔧 Currently, I'm on an exciting backend software intern journey with Growth Natives, where I'm expanding my expertise in languages such as Node.js, MySQL, Redis, and MongoDB. I'm always eager to take on new challenges and explore innovative solutions to complex problems. 🌐 Feel free to explore my repositories to see some of the projects I've worked on. If you have any questions, ideas, or collaboration opportunities, don't hesitate to reach out. Let's connect and make some remarkable software together! 🤝💻
+I'm a passionate software developer with a strong foundation in web development and backend engineering. During my college years, I honed my skills in HTML, CSS, JavaScript, Node.js, and MySQL. 
+
+🌟 My journey continued with an enriching internship at STMicroelectronics, where I delved into the world of Java Spring Boot and MySQL. I had the privilege of working on their PeopleSoft E-leave application and spearheaded the development of DataFin, an Investment Declaration and Proof Submission System serving a user base of approximately 1000 individuals. In this role, I was responsible for crafting robust backend logic using Spring Boot and seamlessly integrating it with frontend components. 
+
+🔧 Currently, I'm on an exciting backend software intern journey with Growth Natives, where I'm expanding my expertise in languages such as Node.js, MySQL, Redis, and MongoDB. I'm always eager to take on new challenges and explore innovative solutions to complex problems. 
+
+🌐 Feel free to explore my repositories to see some of the projects I've worked on. If you have any questions, ideas, or collaboration opportunities, don't hesitate to reach out. Let's connect and make some remarkable software together! 🤝💻
 
 * 🌍  I'm based in Mohali
 * 🧠  I'm learning Noje.js
